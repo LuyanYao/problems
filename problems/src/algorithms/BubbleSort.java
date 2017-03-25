@@ -8,6 +8,7 @@ public class BubbleSort {
     {
         int []data = {1,3,5,2,4,6,7,9,8};
         int flag = 1;
+        
         for(int i = 1;i<data.length;i++)
         {
             flag = 0;
