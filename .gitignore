@@ -17,6 +17,7 @@ hs_err_pid*
 .classpath
 .springBeans
 .settings/
+out/
 bin/
 target
 \target\
@@ -30,3 +31,5 @@ target
 
 # Project Logs
 logs/
+out/
+problems/out/
