@@ -7,6 +7,6 @@ public class StringTest {
 
     public static void main(String []args)
     {
-        System.out.print("new String");
+        System.out.print("String Test");
     }
 }
