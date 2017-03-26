@@ -9,8 +9,7 @@ public class QuickSort {
     public static void main(String []args)
     {
         int []a = {1,3,2,4,6,5,0,2,3,9,7,10,8};
-       
-      
+        
         QuickSort.sort(a,0, a.length-1);
         System.out.println(Arrays.toString(a));
         
