@@ -11,6 +11,7 @@ public class PrintMap {
     public static void main(String[] args) {
        Map<String,Object> map = new HashMap<String,Object>();
        map.put("张三", 80);
+       
        map.put("李四", 90);
        showMap(map);
        map.put("李四", 85);
